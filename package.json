@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@codechecks/client": "^0.1.7",
+    "@codechecks/lighthouse-keeper": "^0.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
@@ -10,7 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "codechecks",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
