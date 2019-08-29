@@ -948,10 +948,10 @@
     ts-node "^8.0.2"
     url-join "^4.0.0"
 
-"@codechecks/lighthouse-keeper@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@codechecks/lighthouse-keeper/-/lighthouse-keeper-0.1.1.tgz#720fa5812ba777b67d9dc8df288ad2b91363d888"
-  integrity sha512-g+D/LGeRiCtM3/K1/oJSxCMhK7Y0cmFXlJ1V0je9K2hrngfoGSla0kj+DXX8BF9WeJ252/B4LK+oKteIrXLcMA==
+"@codechecks/lighthouse-keeper@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@codechecks/lighthouse-keeper/-/lighthouse-keeper-0.1.2.tgz#e273ff371cae89a0beb30525331554d5af9fdff0"
+  integrity sha512-YZ4jUtBs/ox65tm244n6jzY/2o8kzSj0pMnCxDNnBxiN+wmF+Oumh3XCFB9Uv8KJ1FGCIvz4pcXLb7BmM8eECw==
   dependencies:
     chrome-launcher "^0.11.2"
     http-server "^0.11.1"
