@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@codechecks/client": "^0.1.7",
-    "@codechecks/lighthouse-keeper": "^0.1.0",
+    "@codechecks/lighthouse-keeper": "^0.1.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
